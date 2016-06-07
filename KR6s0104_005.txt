@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:36.925061
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:44
 #+TITLE: 閱藏知津
 #+PROPERTY: CBETA_ID J31nB271
 #+PROPERTY: ID KR6s0104
@@ -13,7 +13,7 @@
  閱藏知津卷第五¶
 北天目沙門釋智旭彙輯¶
 
-大乘經藏　方等部第二之四¶
+* 大乘經藏　方等部第二之四¶
 
   
   * 
