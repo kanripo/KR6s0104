@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:37.292995
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:45
 #+TITLE: 閱藏知津
 #+PROPERTY: CBETA_ID J32nB271
 #+PROPERTY: ID KR6s0104
@@ -13,7 +13,7 @@
  閱藏知津卷第二十一¶
 北天目沙門釋智旭彙輯¶
 
-大乘經藏　般若部第三之六¶
+* 大乘經藏　般若部第三之六¶
 
   
   * 
