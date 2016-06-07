@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:37.469475
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:45
 #+TITLE: 閱藏知津
 #+PROPERTY: CBETA_ID J32nB271
 #+PROPERTY: ID KR6s0104
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 32, No. B271
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0104_J_029-0116c> 
 #+PROPERTY: JUAN 29
-
- 閱藏知津卷第二十九¶
+閱藏知津卷第二十九¶
 北天目沙門釋智旭彙輯¶
 
-小乘經藏之四¶
+* 小乘經藏之四¶
 
   
   * 
@@ -218,7 +217,7 @@
   * 
 過去現在因果經(四卷)　(南慶北尺)¶
 劉宋中天竺沙門求那跋陀羅譯¶
-說佛於過去普光佛所，得授記已，生生行菩薩道，¶乃至生兜率，示入胎，出胎，出家，降魔，成道，轉法輪，¶度五比丘，三迦葉，舍利弗，目犍連，大迦葉等事，一¶一結示往因。中有與仙人論破冥諦非想事。¶
+說佛於過去普光佛所，得授記巳，生生行菩薩道，¶乃至生兜率，示入胎，出胎，出家，降魔，成道，轉法輪，¶度五比丘，三迦葉，舍利弗，目犍連，大迦葉等事，一¶一結示往因。中有與仙人論破冥諦非想事。¶
   
   * 
 修行本起經(二卷)　(南善北尺)¶

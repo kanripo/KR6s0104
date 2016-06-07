@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:37.120159
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:45
 #+TITLE: 閱藏知津
 #+PROPERTY: CBETA_ID J32nB271
 #+PROPERTY: ID KR6s0104
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 32, No. B271
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0104_J_013-0035a> 
 #+PROPERTY: JUAN 13
-
- 閱藏知津卷第十三¶
+閱藏知津卷第十三¶
 北天目沙門釋智旭彙輯¶
 
-大乘經藏　方等部第二之十二¶
+* 大乘經藏　方等部第二之十二¶
 
   
   * 
@@ -58,7 +57,7 @@
   * 
 大金色孔雀王咒經(一卷)　仝上¶
 姚秦北天竺沙門鳩摩羅什譯¶
-已上三經皆即前經中之少分。¶
+巳上三經皆即前經中之少分。¶
   * 
 佛說大孔雀明王畫像壇場儀軌(四紙餘)　(南學北杜)¶
 唐北天竺沙門大廣智不空譯¶
@@ -447,7 +446,7 @@
   * 
 佛說出生無邊門陀羅尼經(十紙)　(南流北興)¶
 唐北天竺沙門大廣智不空譯¶
-已上八經並與前同本。¶
+巳上八經並與前同本。¶
 閱藏知津卷第十三
 <pb:KR6s0104_J_013-0039c>¶
 
